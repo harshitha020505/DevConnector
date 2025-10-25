@@ -5,9 +5,12 @@
   "main": "server.js",
   "scripts": {
     "start": "node server",
-    "server":"nodemon server"
-
+    "server": "nodemon server"
   },
   "author": "Harshitha",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "config": "^4.1.1",
+    "mongoose": "^8.19.2"
+  }
 }
