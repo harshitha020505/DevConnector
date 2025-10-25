@@ -1,0 +1,13 @@
+{
+  "name": "devconnector",
+  "version": "1.0.0",
+  "description": "This is devconnector",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server":"nodemon server"
+
+  },
+  "author": "Harshitha",
+  "license": "ISC"
+}
